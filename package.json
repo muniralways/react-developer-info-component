@@ -1,0 +1,25 @@
+{
+  "name": "react-developer-info",
+  "version": "1.0.0",
+  "description": "A reusable React component for showing developer info with GitHub link.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "keywords": [
+    "react",
+    "developer",
+    "info",
+    "component"
+  ],
+  "author": "MD Shirajam Munir",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muniralways/react-developer-info-component.git"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  }
+}
