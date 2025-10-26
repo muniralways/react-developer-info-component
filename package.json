@@ -1,5 +1,5 @@
 {
-  "name": "react-developer-info",
+  "name": "react-developer-info-component",
   "version": "1.0.0",
   "description": "A reusable React component for showing developer info with GitHub link.",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/muniralways/react-developer-info-component.git"
+    "url": "https://github.com/muniralways/react-developer-info-component"
   },
   "peerDependencies": {
     "react": ">=17.0.0",
